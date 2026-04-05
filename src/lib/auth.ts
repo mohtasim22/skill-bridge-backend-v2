@@ -98,3 +98,5 @@ export const auth = betterAuth({
         oAuthProxy(),
     ],
 });
+
+// authentication module abstract
