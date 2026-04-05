@@ -66,3 +66,5 @@ export const CourseController ={
     deleteCourse
 }
 // End of course management controller
+
+// course logic final
