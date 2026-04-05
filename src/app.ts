@@ -53,3 +53,5 @@ app.use(errorHandler);
 
 export default app;
 // Core app configuration complete
+
+// app routes finalized
