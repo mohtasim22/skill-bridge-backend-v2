@@ -50,3 +50,5 @@ export const BookingController = {
   updateBooking
 };
 // End of booking action handlers
+
+// booking endpoints final
